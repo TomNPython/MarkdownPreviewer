@@ -1,0 +1,36 @@
+#app, textarea {
+  color: #ab987a;
+  background-color: #0f1629;
+  font-family: "Lobster", serif
+}
+
+#editor {
+  border: 2px outset #ab987a;
+  border-radius: 10px;
+  min-height: 300px;
+  padding: 20px;
+  margin: 25px;
+  background-color: #273a6d
+}
+
+#preview {
+  border: 2px outset #ab987a;
+  border-radius: 5px;
+  min-height: 300px;
+  padding: 20px;
+  margin: 25px;
+  background-color: #273a6d
+}
+
+#header {
+  padding: 10px;
+}
+
+#preview code {
+  color: #fb987a;
+}
+
+.footer {
+  color: #ab987a;
+}
+
