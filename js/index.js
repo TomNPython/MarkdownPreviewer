@@ -16,10 +16,12 @@ App = function (_React$Component) {_inherits(App, _React$Component);
     }
 
     // enters markup
-  }, { key: 'markUp', value: function markUp() {
+  } /*, { key: 'markUp', value: function markUp() {
       var md = marked(this.state.input);
       return { __html: md };
-    } }, { key: 'render', value: function render()
+    } } */
+                     
+                     , { key: 'render', value: function render()
 
     {
       return (
